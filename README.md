@@ -2,7 +2,7 @@
 We created an interactive graphic which lets you explore interactions and trade offs of microclimate in an urban setting. 
 The heat wave and location of the baseline urban canyon are set in Braunschweig, Germany in August 2021.
 
-Microclimate is assessed via 3 heat stress metrics T_peak, T_night and UTCI_peak. 
+Microclimate is assessed via 3 heat stress metrics T_peak, T_night and UTCI_peak. \\
 T_peak quanitifies the highest temperature in the urban setting during a simulated heat wave.
 T_night quanitifies the lowest temperature in the urban setting following the hottest day during the simulated heat wave.
 UTCI_peak quanitifies the highest Universal Thermal Comfort Index during the simulated heat wave.

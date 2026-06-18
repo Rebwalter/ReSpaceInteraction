@@ -1,4 +1,4 @@
-# ReSpaceInteraction
+# Urban Climate Design Explorer
 We created an interactive graphic which lets you explore interactions and trade offs of microclimate in an urban setting. 
 The heat wave and location of the baseline urban canyon are set in Braunschweig, Germany in August 2021.
 
